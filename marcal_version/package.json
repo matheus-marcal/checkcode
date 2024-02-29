@@ -1,0 +1,20 @@
+{
+  "name": "aprendendo_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "moduloCliente.js",
+  "scripts": {
+    "start":"node moduloCliente.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheus-marcal/checkcode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheus-marcal/checkcode/issues"
+  },
+  "homepage": "https://github.com/matheus-marcal/checkcode#readme"
+}
